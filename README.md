@@ -12,8 +12,8 @@
 - Use 24 known Bypasses for 403 with the help of curl
 
 # Installation
-   * `git clone https://github.com/iamj0ker/bypass-403`
-   * `cd bypass-403`
+   * `git clone https://github.com/r00thex/ROot-Bypass-403.git`
+   * `cd ROot-Bypass-403`
    * `chmod +x bypass-403.sh`
    * `sudo apt install figlet`  - If you are unable to see the logo as in the screenshot
    * `sudo apt install jq`      - If you don't have jq installed on your machine
